@@ -1,4 +1,7 @@
 # git-test
+[깃허브 참조](https://velog.io/@suyeon-hong/%EC%9E%90%EC%A3%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-git-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC)
+
+[마크다운 참조](https://www.heropy.dev/p/B74sNE)
 
 ## git init
 ### 처음에 해야할것이다.
