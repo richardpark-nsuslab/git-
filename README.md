@@ -18,3 +18,16 @@
 
 ## git pull
 ### 너가 작업한게 필요없어지거나 버그가 생겨서 다시 해야 할 경우 사용할것이다.
+
+---
+
+
+# git 초기 설정
+> ## git init
+>  - ### 깃 초기화, 저장소 생성
+> ## git remote add origin [깃허브 원격 저장소(레파지토리)주소 ]
+>  - ### 레파지토리와 로컬 저장소 연결
+> ## git config --global user.name [이름]
+>  - ### 사용자 이름 설정
+> ## git config --global user.email [이메일주소]
+>  - ### 사용자 이메일 설정
