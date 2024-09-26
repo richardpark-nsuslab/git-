@@ -120,3 +120,10 @@
 - branch1에서 branch2를 파생할 경우 branch1의 로그기록을 유지한채로 branch2가 생성된다. main에서 branch를 만드는 습관을 들이자.
 - 의미없는 커밋은 지양하자. 항상 branch를 새로 만들어서 작업하는 습관을 들이기, 수정사항이 있을 때에도 새로 branch를 만들어서 push해야 PR을 올릴 수 있다.
 
+---
+
+# Branch 전략
+```개발 진행을 하다보면, 코드를 여러개로 복사해야 하는 일이 잦다. 코드를 통쨰로 복사 한 뒤 원래 코드와는 상관없이 독립적으로 개발을 진행 할 수 있게 도와주는걸 branch라고 말한다.```
+> ## Git Flow 전략
+> [image]: /img/git-flow.png 'git-flow'
+> > ### Git Flow는 크게 Main 브랜치, 
