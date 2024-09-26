@@ -10,7 +10,7 @@
 ## git add file.exe
 ### 너가 수정 한 파일을 로컬에 올려둔다
 
-## git commit -m '메모'
+## git commit -m 'text'
 ### 너가 방금 로컬에 올린것들에 메모를 추가해주는것이다.
 
 ## git push
