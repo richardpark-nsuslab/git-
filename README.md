@@ -126,5 +126,5 @@
 ```개발 진행을 하다보면, 코드를 여러개로 복사해야 하는 일이 잦다. 코드를 통쨰로 복사 한 뒤 원래 코드와는 상관없이 독립적으로 개발을 진행 할 수 있게 도와주는걸 branch라고 말한다.```
 > ## Git Flow 전략
 > ![git-flow](/img/git-flow.png "git-flow")
-> > ### Git Flow는 크게 Main 브랜치, Develop 브랜치, Supporting 브랜치로 구분하여 브랜치를 관리한다. 이떄, Supporting 브랜치는 또 다리 Feature 브랜치, Release 브랜치, Hotfix 브랜치로 나뉜다.
+> > ### 
 > 
