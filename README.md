@@ -126,5 +126,10 @@
 ```개발 진행을 하다보면, 코드를 여러개로 복사해야 하는 일이 잦다. 코드를 통쨰로 복사 한 뒤 원래 코드와는 상관없이 독립적으로 개발을 진행 할 수 있게 도와주는걸 branch라고 말한다.```
 > ## Git Flow 전략
 > ![git-flow](./img/git-flow.png "git-flow")
-> > ### 
-> 
+> > ### Branch를 나누는 방법중 하나다.
+> > #### - Main(marster): 서비스를 직접 배포하는 Branch
+> > #### - Feature(기능): 각 기능별 개발하는 Branch
+> > #### - Develop(개발): Feature에서 개발 된 내용을 가지고 있는 Branch 
+> > #### - Release(배포): 배포를 하기 전 내용을 QA하기 위한 Branch
+> > #### - Hotfix: Main Branch로 배포를 한 뒤, 라이브 이슈가 생길때 대응을 하기 위한 브랜치
+> > ### Main, Develop은 필수 Branch이지만, 나머지 브랜치는 유지보수를 목적으로 하는 선택적인 브랜치다. 각 프로젝트별 관리 스타일에 따라 변동 할 수 있다.
